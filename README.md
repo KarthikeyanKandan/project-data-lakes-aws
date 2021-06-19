@@ -1,6 +1,7 @@
 # Data Lake for music streaming app 'Sparkify'
 
-## Objective: to build an ETL pipeline for a data lake hosted on S3. we will need to load data from S3, process the data into analytics tables using Spark, and load them back into S3.
+## Objective
+to build an ETL pipeline for a data lake hosted on S3. we will need to load data from S3, process the data into analytics tables using Spark, and load them back into S3.
 
 ### Introduction
 
